@@ -22,8 +22,7 @@
             "default": false,
             "dependencies": [
                 {
-                    "package": "ESObjects",
-                    "versionNumber": "57.0.0.LATEST"
+                    "package": "ESObjects@57.0.0-3"
                 }
             ]
         },
@@ -35,16 +34,13 @@
             "default": true,
             "dependencies": [
                 {
-                    "package": "ESObjects",
-                    "versionNumber": "57.0.0.LATEST"
+                    "package": "ESObjects@57.0.0-3"
                 },
                 {
-                    "package": "ESBaseCodeLWC",
-                    "versionNumber": "57.0.0.LATEST"
+                    "package": "ESBaseCodeLWC@57.0.0-2"
                 },
                 {
-                    "package": "ESBaseStylesLWC",
-                    "versionNumber": "57.0.0.LATEST"
+                    "package": "ESBaseStylesLWC@57.0.0-2"
                 }
             ]
         }
